@@ -1,2 +1,2 @@
-# Sky_Adventure
+# SkyRender
 Python OpenGL Game with Simple Obstacles
